@@ -1,0 +1,1 @@
+Here is my Portfolio project. I have made changes to the original figma design to make it about the work that I have done. I have added images from my previous companies and psuhed everything to my Repo.

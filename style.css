@@ -211,6 +211,13 @@ body {
   color: #9c9c9c;
 }
 
+.tilson .img,
+.doyle .img,
+.fulcrum .img {
+  width: 455px;
+  height: 300px;
+}
+
 .tilson {
   display: flex;
   flex-direction: row;
